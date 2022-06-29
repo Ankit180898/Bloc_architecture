@@ -1,0 +1,9 @@
+
+ Steps to follow in bloc pattern:
+  1: imports
+  2: List of employees
+  3: Stream controllers
+  4: Stream Sink getter
+  5: Constructor - add data; listen changes
+  6: Core functions
+  7: dispose
